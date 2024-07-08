@@ -1,0 +1,7 @@
+Exiting this simulation and writing to a file...
+ID: 2397105 | Name: Rohm | Level: Sophomore | Major: Business | GPA: 3.000000 | Advisor ID: none
+
+ID: 232323 | Name: Anna | Level: Junior | Department: Math Advisee IDs: 
+
+ID: 2323239 | Name: Anna | Level: Junior | Department: Math Advisee IDs: 
+

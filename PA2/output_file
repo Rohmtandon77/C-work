@@ -1,0 +1,379 @@
+
+Level: 0 Before Mario's placement
+m g c g m 
+x k g k c 
+k x m m b 
+k x x w g 
+x c k m k 
+
+Level: 0 After Mario's placement
+m g c g m 
+x k g k c 
+k x m m b 
+k x x w g 
+x c k H k 
+
+Level: 0. Current Position: (4, 3). Power level: 1. Mario got a mushroom so gained power. Lives left: 3. Number of coins: 0.
+mario will move Left.
+
+m g c g m 
+x k g k c 
+k x m m b 
+k x x w g 
+x c H x k 
+
+Level: 0. Current Position: (4, 2). Power level: 1. Mario won against the Koopa
+Lives left: 3. Number of coins: 0.
+mario will move Up.
+
+m g c g m 
+x k g k c 
+k x m m b 
+k x H w g 
+x c x x k 
+
+Level: 0. Current Position: (3, 2). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Left.
+
+m g c g m 
+x k g k c 
+k x m m b 
+k H x w g 
+x c x x k 
+
+Level: 0. Current Position: (3, 1). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Right.
+
+m g c g m 
+x k g k c 
+k x m m b 
+k x H w g 
+x c x x k 
+
+Level: 0. Current Position: (3, 2). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Left.
+
+m g c g m 
+x k g k c 
+k x m m b 
+k H x w g 
+x c x x k 
+
+Level: 0. Current Position: (3, 1). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Left.
+
+m g c g m 
+x k g k c 
+k x m m b 
+H x x w g 
+x c x x k 
+
+Level: 0. Current Position: (3, 0). Power level: 1. Mario won against the Koopa
+Lives left: 3. Number of coins: 0.
+mario will move Up.
+
+m g c g m 
+x k g k c 
+H x m m b 
+x x x w g 
+x c x x k 
+
+Level: 0. Current Position: (2, 0). Power level: 1. Mario won against the Koopa
+Lives left: 3. Number of coins: 0.
+mario will move Down.
+
+m g c g m 
+x k g k c 
+x x m m b 
+H x x w g 
+x c x x k 
+
+Level: 0. Current Position: (3, 0). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Down.
+
+m g c g m 
+x k g k c 
+x x m m b 
+x x x w g 
+H c x x k 
+
+Level: 0. Current Position: (4, 0). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Up.
+
+m g c g m 
+x k g k c 
+x x m m b 
+H x x w g 
+x c x x k 
+
+Level: 0. Current Position: (3, 0). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Up.
+
+m g c g m 
+x k g k c 
+H x m m b 
+x x x w g 
+x c x x k 
+
+Level: 0. Current Position: (2, 0). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Down.
+
+m g c g m 
+x k g k c 
+x x m m b 
+H x x w g 
+x c x x k 
+
+Level: 0. Current Position: (3, 0). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Left.
+
+m g c g m 
+x k g k c 
+x x m m b 
+x x x w H 
+x c x x k 
+
+Level: 0. Current Position: (3, 4). Power level: 0. Mario loses to the Goomba. Lives left: 3. Number of coins: 0.
+mario will move Right.
+
+m g c g m 
+x k g k c 
+x x m m b 
+H x x w g 
+x c x x k 
+
+Level: 0. Current Position: (3, 0). Power level: 0. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Down.
+
+m g c g m 
+x k g k c 
+x x m m b 
+x x x w g 
+H c x x k 
+
+Level: 0. Current Position: (4, 0). Power level: 0. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Down.
+
+H g c g m 
+x k g k c 
+x x m m b 
+x x x w g 
+x c x x k 
+
+Level: 0. Current Position: (0, 0). Power level: 1. Mario got a mushroom so gained power. Lives left: 3. Number of coins: 0.
+mario will move Left.
+
+x g c g H 
+x k g k c 
+x x m m b 
+x x x w g 
+x c x x k 
+
+Level: 0. Current Position: (0, 4). Power level: 2. Mario got a mushroom so gained power. Lives left: 3. Number of coins: 0.
+mario will move Right.
+
+H g c g x 
+x k g k c 
+x x m m b 
+x x x w g 
+x c x x k 
+
+Level: 0. Current Position: (0, 0). Power level: 2. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Up.
+
+x g c g x 
+x k g k c 
+x x m m b 
+x x x w g 
+H c x x k 
+
+Level: 0. Current Position: (4, 0). Power level: 2. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Down.
+
+H g c g x 
+x k g k c 
+x x m m b 
+x x x w g 
+x c x x k 
+
+Level: 0. Current Position: (0, 0). Power level: 2. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Down.
+
+x g c g x 
+H k g k c 
+x x m m b 
+x x x w g 
+x c x x k 
+
+Level: 0. Current Position: (1, 0). Power level: 2. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Right.
+
+x g c g x 
+x H g k c 
+x x m m b 
+x x x w g 
+x c x x k 
+
+Level: 0. Current Position: (1, 1). Power level: 1. Mario loses to the Koopa. Lives left: 3. Number of coins: 0.
+mario will move Down.
+
+x g c g x 
+x k g k c 
+x H m m b 
+x x x w g 
+x c x x k 
+
+Level: 0. Current Position: (2, 1). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Down.
+
+x g c g x 
+x k g k c 
+x x m m b 
+x H x w g 
+x c x x k 
+
+Level: 0. Current Position: (3, 1). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 0.
+mario will move Down.
+
+x g c g x 
+x k g k c 
+x x m m b 
+x x x w g 
+x H x x k 
+
+Level: 0. Current Position: (4, 1). Power level: 1. Mario collect a coin. 
+Lives left: 3. Number of coins: 1.
+mario will move Right.
+
+x g c g x 
+x k g k c 
+x x m m b 
+x x x w g 
+x x H x k 
+
+Level: 0. Current Position: (4, 2). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 1.
+mario will move Down.
+
+x g H g x 
+x k g k c 
+x x m m b 
+x x x w g 
+x x x x k 
+
+Level: 0. Current Position: (0, 2). Power level: 1. Mario collect a coin. 
+Lives left: 3. Number of coins: 2.
+mario will move Up.
+
+x g x g x 
+x k g k c 
+x x m m b 
+x x x w g 
+x x H x k 
+
+Level: 0. Current Position: (4, 2). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 2.
+mario will move Right.
+
+x g x g x 
+x k g k c 
+x x m m b 
+x x x w g 
+x x x H k 
+
+Level: 0. Current Position: (4, 3). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 2.
+mario will move Left.
+
+x g x g x 
+x k g k c 
+x x m m b 
+x x x w g 
+x x H x k 
+
+Level: 0. Current Position: (4, 2). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 2.
+mario will move Up.
+
+x g x g x 
+x k g k c 
+x x m m b 
+x x H w g 
+x x x x k 
+
+Level: 0. Current Position: (3, 2). Power level: 1. The position is empty. 
+Lives left: 3. Number of coins: 2.
+mario will move Right.
+
+x g x g x 
+x k g k c 
+x x m m b 
+x x x H g 
+x x x x k 
+
+Level: 0. Current Position: (3, 3). Power level: 1. Mario hit a warp pipe so will go to the next levelLives left: 3. Number of coins: 2.
+
+Level: 1 Before Mario's placement
+m k m x g 
+x m g c g 
+m g g k m 
+k b c m k 
+k c x c x 
+
+Level: 1 After Mario's placement
+m k H x g 
+x m g c g 
+m g g k m 
+k b c m k 
+k c x c x 
+
+Level: 1. Current Position: (0, 2). Power level: 2. Mario got a mushroom so gained power. Lives left: 3. Number of coins: 2.
+mario will move Up.
+
+m k x x g 
+x m g c g 
+m g g k m 
+k b c m k 
+k c H c x 
+
+Level: 1. Current Position: (4, 2). Power level: 2. The position is empty. 
+Lives left: 3. Number of coins: 2.
+mario will move Left.
+
+m k x x g 
+x m g c g 
+m g g k m 
+k b c m k 
+k H x c x 
+
+Level: 1. Current Position: (4, 1). Power level: 2. Mario collect a coin. 
+Lives left: 3. Number of coins: 3.
+mario will move Up.
+
+m k x x g 
+x m g c g 
+m g g k m 
+k H c m k 
+k x x c x 
+
+Level: 1. Current Position: (3, 1). Power level: 2. Mario fought the boss and won! 
+Lives left: 3. Number of coins: 3.
+
+ Mario won the game and Princess Peach was saved!

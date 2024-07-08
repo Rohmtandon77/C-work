@@ -1,0 +1,6 @@
+Student DB
+ID: 1 | Name: max | Level:  | Major:  | GPA: 1.000000 | Advisor ID: none
+ID: 2 | Name: matt | Level:  | Major:  | GPA: 1.000000 | Advisor ID: none
+ID: 3 | Name: rohm | Level:  | Major:  | GPA: 1.000000 | Advisor ID: none
+
+Faculty DB
